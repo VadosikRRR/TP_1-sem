@@ -1,0 +1,7 @@
+D:\C#\NotAllBeadsAreEnough\NotAllBeadsAreEnough\bin\Debug\NotAllBeadsAreEnough.exe.config
+D:\C#\NotAllBeadsAreEnough\NotAllBeadsAreEnough\bin\Debug\NotAllBeadsAreEnough.exe
+D:\C#\NotAllBeadsAreEnough\NotAllBeadsAreEnough\bin\Debug\NotAllBeadsAreEnough.pdb
+D:\C#\NotAllBeadsAreEnough\NotAllBeadsAreEnough\obj\Debug\NotAllBeadsAreEnough.csproj.AssemblyReference.cache
+D:\C#\NotAllBeadsAreEnough\NotAllBeadsAreEnough\obj\Debug\NotAllBeadsAreEnough.csproj.CoreCompileInputs.cache
+D:\C#\NotAllBeadsAreEnough\NotAllBeadsAreEnough\obj\Debug\NotAllBeadsAreEnough.exe
+D:\C#\NotAllBeadsAreEnough\NotAllBeadsAreEnough\obj\Debug\NotAllBeadsAreEnough.pdb
