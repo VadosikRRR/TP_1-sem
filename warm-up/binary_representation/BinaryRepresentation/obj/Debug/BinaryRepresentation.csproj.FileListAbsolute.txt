@@ -1,0 +1,7 @@
+D:\C#\BinaryRepresentation\BinaryRepresentation\bin\Debug\BinaryRepresentation.exe.config
+D:\C#\BinaryRepresentation\BinaryRepresentation\bin\Debug\BinaryRepresentation.exe
+D:\C#\BinaryRepresentation\BinaryRepresentation\bin\Debug\BinaryRepresentation.pdb
+D:\C#\BinaryRepresentation\BinaryRepresentation\obj\Debug\BinaryRepresentation.csproj.AssemblyReference.cache
+D:\C#\BinaryRepresentation\BinaryRepresentation\obj\Debug\BinaryRepresentation.csproj.CoreCompileInputs.cache
+D:\C#\BinaryRepresentation\BinaryRepresentation\obj\Debug\BinaryRepresentation.exe
+D:\C#\BinaryRepresentation\BinaryRepresentation\obj\Debug\BinaryRepresentation.pdb
