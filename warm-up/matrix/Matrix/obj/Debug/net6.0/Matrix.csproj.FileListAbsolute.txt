@@ -1,0 +1,14 @@
+D:\C#\Matrix\Matrix\bin\Debug\net6.0\Matrix.exe
+D:\C#\Matrix\Matrix\bin\Debug\net6.0\Matrix.deps.json
+D:\C#\Matrix\Matrix\bin\Debug\net6.0\Matrix.runtimeconfig.json
+D:\C#\Matrix\Matrix\bin\Debug\net6.0\Matrix.dll
+D:\C#\Matrix\Matrix\bin\Debug\net6.0\Matrix.pdb
+D:\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfoInputs.cache
+D:\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfo.cs
+D:\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.csproj.CoreCompileInputs.cache
+D:\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.dll
+D:\C#\Matrix\Matrix\obj\Debug\net6.0\refint\Matrix.dll
+D:\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.pdb
+D:\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.genruntimeconfig.cache
+D:\C#\Matrix\Matrix\obj\Debug\net6.0\ref\Matrix.dll
