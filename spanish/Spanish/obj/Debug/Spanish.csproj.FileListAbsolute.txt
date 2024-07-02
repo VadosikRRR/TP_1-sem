@@ -1,0 +1,11 @@
+D:\C\Spanish\Spanish\bin\Debug\Spanish.exe.config
+D:\C\Spanish\Spanish\bin\Debug\Spanish.exe
+D:\C\Spanish\Spanish\bin\Debug\Spanish.pdb
+D:\C\Spanish\Spanish\obj\Debug\Spanish.csproj.AssemblyReference.cache
+D:\C\Spanish\Spanish\obj\Debug\Spanish.csproj.CoreCompileInputs.cache
+D:\C\Spanish\Spanish\obj\Debug\Spanish.exe
+D:\C\Spanish\Spanish\obj\Debug\Spanish.pdb
+D:\C\Spanish\Spanish\bin\Debug\Humanizer.dll
+D:\C\Spanish\Spanish\bin\Debug\Humanizer.xml
+D:\C\Spanish\Spanish\bin\Debug\es\Humanizer.resources.dll
+D:\C\Spanish\Spanish\obj\Debug\Spanish.csproj.CopyComplete
