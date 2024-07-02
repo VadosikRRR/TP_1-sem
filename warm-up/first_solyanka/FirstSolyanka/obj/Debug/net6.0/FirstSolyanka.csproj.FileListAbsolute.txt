@@ -1,0 +1,14 @@
+D:\C#\FirstSolyanka\FirstSolyanka\bin\Debug\net6.0\FirstSolyanka.exe
+D:\C#\FirstSolyanka\FirstSolyanka\bin\Debug\net6.0\FirstSolyanka.deps.json
+D:\C#\FirstSolyanka\FirstSolyanka\bin\Debug\net6.0\FirstSolyanka.runtimeconfig.json
+D:\C#\FirstSolyanka\FirstSolyanka\bin\Debug\net6.0\FirstSolyanka.dll
+D:\C#\FirstSolyanka\FirstSolyanka\bin\Debug\net6.0\FirstSolyanka.pdb
+D:\C#\FirstSolyanka\FirstSolyanka\obj\Debug\net6.0\FirstSolyanka.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\FirstSolyanka\FirstSolyanka\obj\Debug\net6.0\FirstSolyanka.AssemblyInfoInputs.cache
+D:\C#\FirstSolyanka\FirstSolyanka\obj\Debug\net6.0\FirstSolyanka.AssemblyInfo.cs
+D:\C#\FirstSolyanka\FirstSolyanka\obj\Debug\net6.0\FirstSolyanka.csproj.CoreCompileInputs.cache
+D:\C#\FirstSolyanka\FirstSolyanka\obj\Debug\net6.0\FirstSolyanka.dll
+D:\C#\FirstSolyanka\FirstSolyanka\obj\Debug\net6.0\refint\FirstSolyanka.dll
+D:\C#\FirstSolyanka\FirstSolyanka\obj\Debug\net6.0\FirstSolyanka.pdb
+D:\C#\FirstSolyanka\FirstSolyanka\obj\Debug\net6.0\FirstSolyanka.genruntimeconfig.cache
+D:\C#\FirstSolyanka\FirstSolyanka\obj\Debug\net6.0\ref\FirstSolyanka.dll
