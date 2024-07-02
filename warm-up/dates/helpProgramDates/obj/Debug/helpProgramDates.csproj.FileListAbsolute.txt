@@ -1,0 +1,7 @@
+D:\C#\Dates\helpProgramDates\bin\Debug\helpProgramDates.exe.config
+D:\C#\Dates\helpProgramDates\bin\Debug\helpProgramDates.exe
+D:\C#\Dates\helpProgramDates\bin\Debug\helpProgramDates.pdb
+D:\C#\Dates\helpProgramDates\obj\Debug\helpProgramDates.csproj.AssemblyReference.cache
+D:\C#\Dates\helpProgramDates\obj\Debug\helpProgramDates.csproj.CoreCompileInputs.cache
+D:\C#\Dates\helpProgramDates\obj\Debug\helpProgramDates.exe
+D:\C#\Dates\helpProgramDates\obj\Debug\helpProgramDates.pdb

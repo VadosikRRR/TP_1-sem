@@ -1,0 +1,7 @@
+D:\C#\Dates\Dates\bin\Debug\Dates.exe.config
+D:\C#\Dates\Dates\bin\Debug\Dates.exe
+D:\C#\Dates\Dates\bin\Debug\Dates.pdb
+D:\C#\Dates\Dates\obj\Debug\Dates.csproj.AssemblyReference.cache
+D:\C#\Dates\Dates\obj\Debug\Dates.csproj.CoreCompileInputs.cache
+D:\C#\Dates\Dates\obj\Debug\Dates.exe
+D:\C#\Dates\Dates\obj\Debug\Dates.pdb
