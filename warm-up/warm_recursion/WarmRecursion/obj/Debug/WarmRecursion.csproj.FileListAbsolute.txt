@@ -1,0 +1,7 @@
+D:\C#\WarmRecursion\WarmRecursion\bin\Debug\WarmRecursion.exe.config
+D:\C#\WarmRecursion\WarmRecursion\bin\Debug\WarmRecursion.exe
+D:\C#\WarmRecursion\WarmRecursion\bin\Debug\WarmRecursion.pdb
+D:\C#\WarmRecursion\WarmRecursion\obj\Debug\WarmRecursion.csproj.AssemblyReference.cache
+D:\C#\WarmRecursion\WarmRecursion\obj\Debug\WarmRecursion.csproj.CoreCompileInputs.cache
+D:\C#\WarmRecursion\WarmRecursion\obj\Debug\WarmRecursion.exe
+D:\C#\WarmRecursion\WarmRecursion\obj\Debug\WarmRecursion.pdb
